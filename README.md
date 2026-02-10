@@ -3,15 +3,14 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active directory Home Lab](https://github.com/Tana-Tags/)
-
+  
 <h2> Certification and Education </h2>
 - <b>UKZN 2nd year Computer Science and Information student</b>
   
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active directory walkthrough](https://www.youtube.com/watch?v=a83ASGn_V_s)
+)
 
  
 <h2> 🤳 Connect with me:</h2>
