@@ -1,38 +1,111 @@
-<h1>Hi, I'm Tana! </h1>
+<h1 align="center">Hi 👋, I'm Tana Tagwira</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h3 align="center">
+Computer Science Student | Aspiring Software Engineer | Java • C# • .NET • Backend Development
+</h3>
 
+---
 
-  
-<h2> Certification and Education </h2>
-- <b>UKZN 2nd year Computer Science and Information student</b>
-  
+## 👨‍💻 About Me
 
-<h2>📺 Popular YouTube Videos</h2>
+I'm a final-year Computer Science student at the **University of KwaZulu-Natal** with a passion for building reliable, scalable software.
 
-)
+I enjoy solving real-world problems through software engineering and have experience developing desktop and web applications using Java, C#, ASP.NET MVC, SQL, and C++. My interests include backend development, software architecture, database systems, and writing clean, maintainable code.
 
- 
-<h2> 🤳 Connect with me:</h2>
+I'm currently seeking graduate opportunities as a **Java Developer**, **.NET Developer**, or **Software Engineer**.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
+## 🚀 Technical Skills
 
-[youtube]: https://www.linkedin.com/in/tana-tagwira-279a19244/
-[linkedin]: https://www.youtube.com/@tanatagwira7744
+### Languages
+- Java
+- C#
+- C++
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frameworks & Technologies
+- ASP.NET MVC
+- Java Swing
+- JDBC
+- MySQL
+- Git
+- MVC Architecture
 
-Here are some ideas to get you started:
+### Software Engineering
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Software Design
+- Database Design
+- Unit Testing
+- Debugging
+- Concurrent Programming
+- Agile Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Featured Projects
+
+### 🏥 Clinic Management System
+Java • Swing • MySQL • JDBC
+
+Desktop application implementing MVC architecture with appointment scheduling, billing, payment processing, reporting dashboards, and inventory management.
+
+---
+
+### 📦 Multi-threaded Inventory Management System
+
+C++ • STL • Multithreading
+
+Warehouse simulation implementing smart pointers, mutex synchronization, concurrent order processing, and thread-safe inventory management.
+
+---
+
+### 🤖 Code Comment Classification
+
+Python • Machine Learning • NLP
+
+Machine learning project comparing Random Forest, SVM, Logistic Regression, Naive Bayes, and Neural Networks for automated software documentation classification.
+
+---
+
+## 🌱 Currently Learning
+
+- ASP.NET Core
+- Spring Boot
+- REST APIs
+- Docker
+- Cloud Fundamentals
+- Software Architecture
+
+---
+
+## 🎯 Career Goals
+
+- Backend Software Engineering
+- Java Development
+- .NET Development
+- Distributed Systems
+- Cloud Development
+
+---
+
+## 🎓 Education
+
+**University of KwaZulu-Natal**
+
+Bachelor of Science in Computer Science
+
+Expected Graduation: **December 2026**
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/tana-tagwira-279a19244/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
+</a>
