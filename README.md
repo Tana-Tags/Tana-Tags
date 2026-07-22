@@ -19,78 +19,95 @@ I'm currently seeking graduate opportunities as a **Java Developer**, **.NET Dev
 ## 🚀 Technical Skills
 
 ### Languages
-- Java
-- C#
-- C++
-- Python
-- SQL
-- JavaScript
-- HTML
-- CSS
+
+* Java
+* C#
+* C++
+* Python
+* SQL
+* JavaScript
+* HTML
+* CSS
 
 ### Frameworks & Technologies
-- ASP.NET MVC
-- Java Swing
-- JDBC
-- MySQL
-- Git
-- MVC Architecture
+
+* ASP.NET MVC
+* Java Swing
+* JDBC
+* MySQL
+* Git
+* MVC Architecture
+* Microsoft Azure
 
 ### Software Engineering
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Software Design
-- Database Design
-- Unit Testing
-- Debugging
-- Concurrent Programming
-- Agile Development
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Software Design
+* Database Design
+* Unit Testing
+* Debugging
+* Concurrent Programming
+* Agile Development
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🏥 Clinic Management System
-Java • Swing • MySQL • JDBC
+
+**Java • Swing • MySQL • JDBC**
 
 Desktop application implementing MVC architecture with appointment scheduling, billing, payment processing, reporting dashboards, and inventory management.
+
+🔗 Repository: https://github.com/Tana-Tags/Clinic-Management-System
 
 ---
 
 ### 📦 Multi-threaded Inventory Management System
 
-C++ • STL • Multithreading
+**C++ • STL • Multithreading**
 
 Warehouse simulation implementing smart pointers, mutex synchronization, concurrent order processing, and thread-safe inventory management.
 
+🔗 Repository: https://github.com/Tana-Tags/Concurrency
+
 ---
 
-### 🤖 Code Comment Classification
+### 🤖 Code Comment Classification System
 
-Python • Machine Learning • NLP
+**Python • Machine Learning • NLP**
 
 Machine learning project comparing Random Forest, SVM, Logistic Regression, Naive Bayes, and Neural Networks for automated software documentation classification.
+
+🔗 Repository: https://github.com/Tana-Tags/Code-Comment-Classification-System
+
+---
+
+## ☁️ Certifications
+
+* **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ---
 
 ## 🌱 Currently Learning
 
-- ASP.NET Core
-- Spring Boot
-- REST APIs
-- Docker
-- Cloud Fundamentals
-- Software Architecture
+* ASP.NET Core
+* Spring Boot
+* REST APIs
+* Docker
+* Cloud Development
+* Software Architecture
 
 ---
 
 ## 🎯 Career Goals
 
-- Backend Software Engineering
-- Java Development
-- .NET Development
-- Distributed Systems
-- Cloud Development
+* Backend Software Engineering
+* Java Development
+* .NET Development
+* Distributed Systems
+* Cloud Development
 
 ---
 
@@ -100,12 +117,16 @@ Machine learning project comparing Random Forest, SVM, Logistic Regression, Naiv
 
 Bachelor of Science in Computer Science
 
-Expected Graduation: **December 2026**
+**Expected Graduation:** December 2026
 
 ---
 
 ## 📫 Connect With Me
 
+<p align="left">
 <a href="https://www.linkedin.com/in/tana-tagwira-279a19244/" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
 </a>
+</p>
+
+Feel free to explore my repositories to see the projects I've built and the technologies I'm currently working with.
